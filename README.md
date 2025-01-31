@@ -12,8 +12,8 @@ This is the frontend of the Product Management Application built using React.
 ## Installation & Setup
 
 1. **Clone the repository**  
-   git clone <repository-url>
-   cd frontend
+   git clone https://github.com/sanjevkumar961/product-management-frontend.git
+   cd product-management-frontend
 
 2. **Install dependencies**
     npm install  # or yarn install
